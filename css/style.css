@@ -1,0 +1,22 @@
+.nav-link {
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+}
+.nav-link:hover {
+  color: #fea405 !important;
+}
+.text-ligh1 {
+  transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+}
+.text-light1:hover {
+  color: #fea405 !important;
+}
+@media (max-width=780px) {
+}
